@@ -1,49 +1,41 @@
 # Escultural Fitness
 
-Landing page da academia Escultural Fitness, em Jesuânia e Olímpio Noronha, Minas Gerais. O site foi desenvolvido com HTML, CSS e JavaScript puros, sem etapa de build.
+Site institucional da **Escultural Fitness**, academia com unidades em Jesuânia e Olímpio Noronha, Minas Gerais. A página apresenta a academia, seus diferenciais, modalidades, equipe de personal trainers, horários, planos e informações para contato e visita.
 
-## Arquivos
+## Tecnologias
 
-- `index.html` — página completa, com estilos e scripts incorporados.
-- `logo-escultural-fitness.jpg` — logo usada na página.
-- `styles.css` e `script.js` — arquivos auxiliares mantidos no projeto; a página atual concentra o código em `index.html`.
+- **HTML5** para a estrutura semântica e acessível da página.
+- **CSS3** para identidade visual, animações e layout responsivo.
+- **JavaScript puro (vanilla)** para interações, navegação, horários e formulários.
+- **Google Fonts** para as famílias tipográficas usadas no site.
+- **Google Maps Embed** para exibir os mapas das unidades.
+- **WhatsApp Click to Chat** para facilitar contato e matrícula.
 
-## Visualizar localmente
+O site não requer framework, dependências locais ou etapa de compilação.
 
-Abra `index.html` diretamente no navegador. Para uma prévia usando um servidor local, execute na pasta do projeto:
+## Executar localmente
+
+Abra `index.html` em um navegador. Para iniciar um servidor local, execute na pasta do projeto:
 
 ```bash
 python3 -m http.server 8000
 ```
 
-Em seguida, acesse <http://localhost:8000>.
+Depois, acesse <http://localhost:8000>.
 
-## Criar o repositório no GitHub
+## Publicação
 
-1. Acesse [github.com/new](https://github.com/new) e crie um repositório, por exemplo `escultural-fitness`.
-2. Deixe desmarcada a opção para adicionar README, `.gitignore` ou licença, pois este projeto já contém um README.
-3. No terminal, dentro desta pasta do projeto, configure o endereço do repositório e envie os arquivos:
+O projeto pode ser publicado como site estático em serviços como GitHub Pages. No GitHub, acesse **Settings → Pages**, selecione a branch `main` e a pasta `/ (root)` como origem da publicação.
 
-```bash
-git remote add origin https://github.com/SEU-USUARIO/escultural-fitness.git
-git add index.html logo-escultural-fitness.jpg styles.css script.js README.md
-git commit -m "Adiciona landing page da Escultural Fitness"
-git branch -M main
-git push -u origin main
+## Estrutura do projeto
+
+```text
+.
+├── index.html
+├── logo-escultural-fitness.jpg
+├── script.js
+├── styles.css
+└── README.md
 ```
 
-Substitua `SEU-USUARIO` pelo seu nome de usuário ou organização no GitHub. Se o repositório já tiver um remoto chamado `origin`, atualize-o com `git remote set-url origin URL-DO-REPOSITORIO`.
-
-## Publicar com GitHub Pages
-
-No repositório, abra **Settings → Pages**, escolha a publicação pela branch `main` e pela pasta `/ (root)`, e salve. O GitHub exibirá o endereço público do site nessa mesma seção após a publicação.
-
-## Atualizar o site
-
-Depois de editar e salvar os arquivos, envie as alterações:
-
-```bash
-git add index.html logo-escultural-fitness.jpg styles.css script.js README.md
-git commit -m "Atualiza landing page"
-git push
-```
+Os arquivos `styles.css` e `script.js` são auxiliares mantidos no repositório. A versão atual da landing page reúne seu CSS e JavaScript diretamente em `index.html`.
