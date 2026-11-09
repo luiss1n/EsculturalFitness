@@ -1,6 +1,6 @@
 # Escultural Fitness
 
-Site institucional da **Escultural Fitness**, academia com unidades em Jesuânia e Olímpio Noronha, Minas Gerais. A página apresenta a academia, seus diferenciais, modalidades, equipe de personal trainers, horários, planos e informações para contato e visita.
+Site da **Escultural Fitness**, academia com unidades em Jesuânia e Olímpio Noronha, Minas Gerais. A página apresenta a academia, seus diferenciais, modalidades, equipe de personal trainers, horários, planos e informações para contato e visita.
 
 ## Tecnologias
 
@@ -13,29 +13,3 @@ Site institucional da **Escultural Fitness**, academia com unidades em Jesuânia
 
 O site não requer framework, dependências locais ou etapa de compilação.
 
-## Executar localmente
-
-Abra `index.html` em um navegador. Para iniciar um servidor local, execute na pasta do projeto:
-
-```bash
-python3 -m http.server 8000
-```
-
-Depois, acesse <http://localhost:8000>.
-
-## Publicação
-
-O projeto pode ser publicado como site estático em serviços como GitHub Pages. No GitHub, acesse **Settings → Pages**, selecione a branch `main` e a pasta `/ (root)` como origem da publicação.
-
-## Estrutura do projeto
-
-```text
-.
-├── index.html
-├── logo-escultural-fitness.jpg
-├── script.js
-├── styles.css
-└── README.md
-```
-
-Os arquivos `styles.css` e `script.js` são auxiliares mantidos no repositório. A versão atual da landing page reúne seu CSS e JavaScript diretamente em `index.html`.
