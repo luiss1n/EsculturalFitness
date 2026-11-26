@@ -179,6 +179,7 @@
     }
   </style>
   <link rel="stylesheet" href="assets/espaco/gallery.css">
+  <link rel="stylesheet" href="assets/hero-video.css">
 </head>
 <body>
   <header class="header" id="topo">
@@ -194,6 +195,8 @@
   </header>
   <main>
     <section class="hero" id="inicio" aria-labelledby="hero-title">
+      <video class="hero-video" muted loop playsinline preload="none" poster="assets/hero-escultural.png" data-video-src="assets/hero-academia.mp4" aria-hidden="true" tabindex="-1"></video>
+      <button class="hero-video-toggle" type="button" aria-label="Pausar vídeo de fundo" hidden>Pausar vídeo</button>
       <div class="wrap hero-inner">
         <div class="hero-copy">
           <h1 id="hero-title">Treine perto.<br><span class="hero-shimmer">Evolua</span> com orientação.</h1>
@@ -450,5 +453,6 @@
     })();
   </script>
   <script src="assets/espaco/gallery.js" defer></script>
+  <script src="assets/hero-video.js" defer></script>
 </body>
 </html>
