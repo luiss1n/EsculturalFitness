@@ -1,0 +1,28 @@
+PROPOSTA C — seletor com trilha de turnos
+
++--------------------------------------------------------------+
+| PLANEJE SUA VISITA                                           |
+| Horários de funcionamento                                    |
+|                                                              |
+| <  SEG  TER  [ QUA ]  QUI  SEX  SÁB  DOM  >                 |
+|                                                              |
+| ◷  QUARTA-FEIRA                                              |
+|    A academia abre em dois turnos                            |
+|                                                              |
+| ☼  MANHÃ                                                     |
+| ◷  06h00  ●━━━━━━━━━━━━━━━━━━━━━━━━●  11h00  ◷              |
+|    ABRE                         FECHA                         |
+|                                                              |
+| ⏸  PAUSA DO ALMOÇO · FECHADO                                 |
+|                                                              |
+| ◷  TARDE E NOITE                                             |
+| ◷  13h00  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●  21h00  ◷       |
+|    ABRE                                  FECHA                |
+|                                                              |
+| Jesuânia · Olímpio Noronha — mesmos horários                 |
++--------------------------------------------------------------+
+
+Navegação pelos dias como uma faixa deslizável; os turnos viram
+uma linha do tempo que deixa claras as aberturas e a pausa fechada.
+Ícones de relógio identificam os horários. No domingo, a trilha é
+substituída por um estado “Fechado”.

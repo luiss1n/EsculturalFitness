@@ -1,0 +1,23 @@
+PROPOSTA B — semana completa em lista expansível
+
++--------------------------------------------------------------+
+| PLANEJE SUA VISITA                                           |
+| Horários da academia                    [ UNIDADES: IGUAIS ]  |
+|                                                              |
+| HOJE · QUARTA-FEIRA                                          |
+| 06h00–11h00  /  13h00–21h00                 [ ABERTO AGORA ] |
+|                                                              |
+| SEGUNDA-FEIRA                         06h–11h · 13h–21h [−]  |
+| TERÇA-FEIRA                           06h–11h · 13h–21h [+]  |
+| QUARTA-FEIRA                          06h–11h · 13h–21h [+]  |
+| QUINTA-FEIRA                          06h–11h · 13h–21h [+]  |
+| SEXTA-FEIRA                           06h–11h · 13h–21h [+]  |
+| SÁBADO                                08h–10h · 16h–18h [+]  |
+| DOMINGO                                          Fechado [+]  |
+|                                                              |
+| Toque em um dia para ver os turnos em detalhe.                |
++--------------------------------------------------------------+
+
+Mostra a semana inteira de uma vez; tocar na linha expande os turnos.
+O dia atual fica destacado, e domingo aparece fechado sem esconder
+nenhum dos outros dias.

@@ -1,0 +1,96 @@
+ESCULTURAL FITNESS — REDESIGN DA HOME
+Direção fixa: preto e branco; preservar a logo; redesign livre do restante.
+Conteúdo existente considerado: diferenciais, equipe, planos, horários, duas unidades e contato/agendamento.
+
+OPÇÃO A — EDITORIAL / IMPACTO
+Uma home de marca com fotografia forte e tipografia grande. A foto continua protagonista,
+mas a chamada e o botão ficam alinhados à esquerda para leitura rápida; a logo fica no topo.
+
++--------------------------------------------------------------------------+
+| LOGO       TREINO   EQUIPE   PLANOS   HORÁRIOS   UNIDADES   [FALE CONOSCO]|
+|                                                                          |
+| [foto real da academia em tela ampla, escura e com contraste]             |
+|                                                                          |
+|  SUA ACADEMIA. SEU RITMO.                                                 |
+|  Evolua com acompanhamento de perto.                                     |
+|  Treino para diferentes objetivos, com equipe presente.                  |
+|  [Agendar uma visita]  [Conhecer unidades]                               |
+|                                                                          |
++--------------------------------------------------------------------------+
+|  2 UNIDADES  ·  PERSONAL TRAINERS  ·  PLANOS A PARTIR DE R$ 80/MÊS        |
++--------------------------------------------------------------------------+
+| POR QUE TREINAR AQUI?  |  3 diferenciais com ícones simples              |
+| orientação próxima    |  estrutura e equipamentos  |  planos flexíveis   |
++--------------------------------------------------------------------------+
+| EQUIPE — retratos reais + nome e especialidade                           |
++--------------------------------------------------------------------------+
+| PLANOS — três opções comparáveis, benefícios e CTA                       |
++--------------------------------------------------------------------------+
+| HORÁRIOS — seletor interativo por dia + status aberto/fechado             |
++--------------------------------------------------------------------------+
+| UNIDADES — Jesuânia | Olímpio Noronha, endereço, horários e mapa          |
++--------------------------------------------------------------------------+
+| CTA FINAL: Seu primeiro treino começa com uma visita. [Falar no WhatsApp]|
+| RODAPÉ: logo, navegação curta, contatos e redes                           |
++--------------------------------------------------------------------------+
+
+OPÇÃO B — DIRETA / CONVERSÃO
+Uma home que responde rápido: o que oferece, onde fica, quanto custa e como visitar.
+Boa para quem chega pelo celular ou já está procurando academia na região.
+
++--------------------------------------------------------------------------+
+| LOGO                         MENU ENXUTO                  [MARCAR VISITA] |
++--------------------------------------------------------------------------+
+|  TREINE PERTO. EVOLUA COM ORIENTAÇÃO. | [foto vertical de treino real]   |
+|  Academias em Jesuânia e Olímpio      |                                  |
+|  Noronha. Encontre seu plano e        |                                  |
+|  venha conhecer.                      |                                  |
+|  [Ver planos] [Escolher unidade]      |                                  |
++--------------------------------------------------------------------------+
+| [Jesuânia] [Olímpio Noronha] — cartões-resumo com endereço e aberto hoje  |
++--------------------------------------------------------------------------+
+| PLANOS — preço, frequência/benefício, destaque para plano recomendado     |
++--------------------------------------------------------------------------+
+| O QUE VOCÊ ENCONTRA — orientação | equipamentos | acompanhamento          |
++--------------------------------------------------------------------------+
+| CONHEÇA A EQUIPE — cards compactos com foto, nome e função                |
++--------------------------------------------------------------------------+
+| HORÁRIOS — dias clicáveis e funcionamento claro por unidade               |
++--------------------------------------------------------------------------+
+| VISITE — formulário curto (nome + WhatsApp + unidade) e CTA               |
++--------------------------------------------------------------------------+
+| RODAPÉ com contatos, endereços e atalhos                                  |
++--------------------------------------------------------------------------+
+
+OPÇÃO C — COMUNIDADE / ACOLHIMENTO
+Uma home que torna a academia mais humana. A imagem e a logo continuam fortes,
+mas a narrativa apresenta pessoas, acompanhamento e a experiência de começar.
+
++--------------------------------------------------------------------------+
+| LOGO        A ACADEMIA   EQUIPE   PLANOS   HORÁRIOS   [VENHA CONHECER]    |
++--------------------------------------------------------------------------+
+| [foto real de aluno e treinador, enquadramento documental]                |
+|                                                                          |
+|  UM ESPAÇO PARA CONSTRUIR CONSTÂNCIA.                                     |
+|  Treino orientado, no seu tempo e perto de casa.                          |
+|  [Faça uma visita]                                                       |
++--------------------------------------------------------------------------+
+| FAÇA PARTE — depoimentos reais e autorizados de alunos (se disponíveis)  |
++--------------------------------------------------------------------------+
+| CONHEÇA QUEM TE ACOMPANHA — equipe em destaque, fotos e especialidades    |
++--------------------------------------------------------------------------+
+| ESCOLHA SEU CAMINHO — planos e benefícios em linguagem simples            |
++--------------------------------------------------------------------------+
+| DUAS CIDADES, A MESMA ENERGIA — unidades com foto, endereço e mapa        |
++--------------------------------------------------------------------------+
+| PLANEJE SEU TREINO — horários interativos por dia                         |
++--------------------------------------------------------------------------+
+| CTA FINAL: O primeiro passo é conhecer. [Agendar visita pelo WhatsApp]   |
+| RODAPÉ                                                                      |
++--------------------------------------------------------------------------+
+
+NOTAS DE PRODUÇÃO
+- Não inventar depoimentos, resultados, números de alunos ou recursos da academia.
+- Priorizar fotos reais da equipe e das unidades; substituir imagem genérica quando houver material.
+- Manter preços, endereços e horários já publicados até confirmação de atualização.
+- As três opções preservam o preto e branco e a logo; a escolha define hierarquia e ritmo da home.

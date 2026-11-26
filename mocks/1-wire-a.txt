@@ -1,0 +1,20 @@
+PROPOSTA A — seletor de dias + painel do dia
+
++--------------------------------------------------------------+
+| PLANEJE SUA VISITA                                           |
+| Horários da academia                                         |
+|                                                              |
+| [ SEG ] [ TER ] [ QUA ] [ QUI ] [ SEX ] [ SÁB ] [ DOM ]    |
+|                                                              |
+| QUARTA-FEIRA                               [ ABERTO AGORA ]  |
+|                                                              |
+| 06h00 ━━━━━━━━━━━━━━━━━ 11h00     MANHÃ                     |
+| 11h00 ───────── fechado ───────── 13h00                     |
+| 13h00 ━━━━━━━━━━━━━━━━━━━━━━━━ 21h00     TARDE / NOITE      |
+|                                                              |
+| Horários iguais nas unidades de Jesuânia e Olímpio Noronha.  |
++--------------------------------------------------------------+
+
+Toque em um dia para atualizar o painel; domingo mostra “Fechado”.
+O dia atual vem selecionado e recebe o estado “Aberto agora” ou
+“Fechado agora”, conforme o horário local.
