@@ -13,3 +13,10 @@ Site da **Escultural Fitness**, academia com unidades em Jesuânia e Olímpio No
 
 O site não requer framework, dependências locais ou etapa de compilação.
 
+## Galeria do espaço
+
+A seção `#espaco`, entre os diferenciais e a equipe, segue o modelo de legendas sobre as fotos. Tem três abas com duas imagens cada e uma aba de vídeo. As fotos são fictícias e estão identificadas como ilustrativas na página.
+
+- Fotos: `assets/espaco/vista-1.png`, `vista-2.png`, `angulo-1.png`, `angulo-2.png`, `detalhes-1.png` e `detalhes-2.png`. Ao substituir por fotos reais, atualize também os textos alternativos e os avisos de imagens ilustrativas no HTML e em `gallery.js`.
+- Vídeo: coloque o arquivo, por exemplo, em `assets/espaco/academia.mp4` e preencha `data-video-src="assets/espaco/academia.mp4"` no elemento `<video>` de `index.html`. O player será exibido com controles, sem reprodução automática. Enquanto não houver arquivo configurado, a aba mostra uma mensagem de "Em breve".
+- Estilos e interações: `assets/espaco/gallery.css` e `assets/espaco/gallery.js`. As fotos abrem ampliadas; as setas alternam entre as duas fotos da categoria e Escape fecha a ampliação.
