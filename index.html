@@ -76,16 +76,17 @@
     /* Plano */
     .price-cards{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin-top:36px;padding-block:10px}
     .price-card{min-width:0;min-height:440px;overflow:hidden;border:1px solid var(--line);border-radius:16px;background:#080808;display:flex;flex-direction:column}
-    .price-logo{width:100%;height:200px;object-fit:contain;padding:22px}
+    .price-logo{display:block;flex:none;width:140px;height:140px;object-fit:contain;margin:30px auto;filter:grayscale(1)}
+    .price-logo-semestral{width:190px;max-width:calc(100% - 32px)}
     .price-body{flex:1;display:flex;flex-direction:column;align-items:flex-start;padding:8px 16px 20px}
     @media(max-width:1050px){
       .price-cards{grid-template-columns:repeat(5,min(78vw,240px));overflow-x:auto;scroll-snap-type:x proximity}
       .price-card{scroll-snap-align:start}
     }
-    .price-body h3{margin:0;color:var(--muted);font:600 1rem var(--body)}
+    .price-body h3{display:flex;align-items:flex-start;min-height:3em;margin:0;color:var(--muted);font:600 1rem/1.5 var(--body)}
     .price{margin:8px 0;font:700 3.2rem/1 var(--title)}
     .price small{font:500 .95rem var(--body);color:var(--muted)}
-    .price-term{align-self:stretch;margin:4px 0 20px;padding-bottom:16px;border-bottom:1px solid var(--line);color:#c0c0c0;font-size:.9rem}
+    .price-term{align-self:stretch;min-height:calc(3em + 16px);margin:4px 0 20px;padding-bottom:16px;border-bottom:1px solid var(--line);color:#c0c0c0;font-size:.9rem}
     .price-body .btn{margin-top:auto;width:100%;padding-inline:10px}
     /* Visite e formulário */
     .visit-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:32px}.visit-card{display:grid;grid-template-rows:auto 260px;overflow:hidden;border:1px solid var(--line);border-radius:5px;background:var(--surface)}.visit-card-content{display:grid;gap:12px;padding:22px}.visit-card h3{margin:0;font:700 1.9rem var(--title)}.visit-card .detail{padding:0;border:0;background:transparent}.visit-card .map-frame{height:260px;min-height:0;border:0;border-radius:0}.detail{padding:20px;border:1px solid var(--line);border-radius:5px;background:var(--surface)}.detail b{display:block;margin-bottom:4px;font-size:.73rem;letter-spacing:.13em;text-transform:uppercase}.detail span,.detail a{color:#c2c2c2;font-size:.9rem}.detail a{text-decoration-thickness:1px;text-underline-offset:3px}.visit-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}.map-frame{width:100%;height:100%;min-height:390px;border:1px solid var(--line);border-radius:5px}.form-card{margin-top:54px;padding:30px;border:1px solid var(--line);border-radius:5px;background:var(--surface)}.form-card h3{margin:0;font:700 2rem var(--title)}.form-card>p{margin:4px 0 24px;color:var(--muted);font-size:.88rem}.form-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}.field{display:grid;gap:7px}.field.full{grid-column:1/-1}.field label{font-size:.77rem;font-weight:500}.field input,.field select{width:100%;min-height:48px;padding:11px 12px;border:1px solid #444;border-radius:4px;background:#080808;color:#fff}.field input::placeholder{color:#7d7d7d}.field [aria-invalid="true"]{border-color:#fff}.error{min-height:1em;color:#d2d2d2;font-size:.75rem}.form-bottom{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-top:14px}.form-status{color:#c5c5c5;font-size:.82rem}
@@ -272,45 +273,45 @@
         </div>
         <div class="price-cards">
           <article class="price-card reveal" data-spotlight-card>
-            <img class="price-logo" src="logo-escultural-fitness-nova.png" alt="" loading="lazy">
+            <img class="price-logo" src="assets/planos/plano-mensal.png" width="140" height="140" alt="" loading="lazy">
             <div class="price-body">
-              <h3>Mensal</h3>
+              <h3>Escultural Mensal</h3>
               <p class="price">R$ 90 <small>/ mês</small></p>
               <p class="price-term">Vigência de 1 mês.</p>
               <a class="btn" href="https://wa.me/5535998174166?text=Ol%C3%A1%21%20Quero%20saber%20como%20me%20matricular%20no%20plano%20Mensal%20da%20Escultural%20Fitness." target="_blank" rel="noopener" aria-label="Consultar plano Mensal pelo WhatsApp">Consultar plano <span aria-hidden="true">↗</span></a>
             </div>
           </article>
           <article class="price-card reveal" data-spotlight-card>
-            <img class="price-logo" src="logo-escultural-fitness-nova.png" alt="" loading="lazy">
+            <img class="price-logo" src="assets/planos/plano-familia.png" width="140" height="140" alt="" loading="lazy">
             <div class="price-body">
-              <h3>Família</h3>
+              <h3>Escultural Família</h3>
               <p class="price">R$ 85 <small>/ mês</small></p>
               <p class="price-term">Consulte as condições para famílias.</p>
               <a class="btn" href="https://wa.me/5535998174166?text=Ol%C3%A1%21%20Quero%20saber%20como%20me%20matricular%20no%20plano%20Fam%C3%ADlia%20da%20Escultural%20Fitness." target="_blank" rel="noopener" aria-label="Consultar plano Família pelo WhatsApp">Consultar plano <span aria-hidden="true">↗</span></a>
             </div>
           </article>
           <article class="price-card reveal" data-spotlight-card>
-            <img class="price-logo" src="logo-escultural-fitness-nova.png" alt="" loading="lazy">
+            <img class="price-logo" src="assets/planos/plano-trimestral.png" width="140" height="140" alt="" loading="lazy">
             <div class="price-body">
-              <h3>Trimestral</h3>
+              <h3>Escultural Trimestral</h3>
               <p class="price">R$ 85 <small>/ mês</small></p>
               <p class="price-term">R$ 255 no total em 3 meses.</p>
               <a class="btn" href="https://wa.me/5535998174166?text=Ol%C3%A1%21%20Quero%20saber%20como%20me%20matricular%20no%20plano%20Trimestral%20da%20Escultural%20Fitness." target="_blank" rel="noopener" aria-label="Consultar plano Trimestral pelo WhatsApp">Consultar plano <span aria-hidden="true">↗</span></a>
             </div>
           </article>
           <article class="price-card reveal" data-spotlight-card>
-            <img class="price-logo" src="logo-escultural-fitness-nova.png" alt="" loading="lazy">
+            <img class="price-logo price-logo-semestral" src="assets/planos/plano-semestral.png" width="140" height="140" alt="" loading="lazy">
             <div class="price-body">
-              <h3>Semestral</h3>
+              <h3>Escultural Semestral</h3>
               <p class="price">R$ 80 <small>/ mês</small></p>
               <p class="price-term">R$ 480 no total em 6 meses.</p>
               <a class="btn" href="https://wa.me/5535998174166?text=Ol%C3%A1%21%20Quero%20saber%20como%20me%20matricular%20no%20plano%20Semestral%20da%20Escultural%20Fitness." target="_blank" rel="noopener" aria-label="Consultar plano Semestral pelo WhatsApp">Consultar plano <span aria-hidden="true">↗</span></a>
             </div>
           </article>
           <article class="price-card reveal" data-spotlight-card>
-            <img class="price-logo" src="logo-escultural-fitness-nova.png" alt="" loading="lazy">
+            <img class="price-logo" src="assets/planos/plano-anual.png" width="140" height="140" alt="" loading="lazy">
             <div class="price-body">
-              <h3>Anual</h3>
+              <h3>Escultural Anual</h3>
               <p class="price">R$ 75 <small>/ mês</small></p>
               <p class="price-term">R$ 900 no total em 12 meses.</p>
               <a class="btn" href="https://wa.me/5535998174166?text=Ol%C3%A1%21%20Quero%20saber%20como%20me%20matricular%20no%20plano%20Anual%20da%20Escultural%20Fitness." target="_blank" rel="noopener" aria-label="Consultar plano Anual pelo WhatsApp">Consultar plano <span aria-hidden="true">↗</span></a>
